@@ -25,7 +25,7 @@ Using data mining and machine learning, this project applies the following:
 ## 📦 Dataset
 
 - **Source:** IBM Telco Customer Churn Dataset  
-- **Size:** ~7,000 customer records  
+- **Size:** 69,906 rows and 21 columns, resulting in a total of 1,468,026 values (69,906 rows * 21 columns)
 - **Target Variable:** `Churn` (Yes/No)  
 - **Features:** Customer account data, service subscriptions, usage patterns
 
